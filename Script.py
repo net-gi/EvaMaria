@@ -4,7 +4,7 @@ My Name Is <a href=https://t.me/{}>{}</a>, I Can Provide Movies, Just Add Me To 
     HELP_TXT = """<b>Hey {}
 Here Is The Help For My Commands.</b>"""
     ABOUT_TXT = """<b>✯ My Name: {}
-✯ Creator: <a href=https://t.me/Legends_Nvr_Die>✗ 「 राहुल 」 ➺ 「🇮🇳」 ✗</a>
+✯ Creator: <a href=https://t.me/C_A_P_T_A_I_N_P>Captain p δ °ⱣØꝀɆSŦ∆Ɍ™°</a>
 ✯ Library: Pyrogram
 ✯ Language: Python 3
 ✯ Database: Mongo DB

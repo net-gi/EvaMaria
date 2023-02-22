@@ -46,10 +46,10 @@ SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'TeamEvamaria')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)
 IMDB = is_enabled((environ.get('IMDB', "True")), True)
 SINGLE_BUTTON = is_enabled((environ.get('SINGLE_BUTTON', "False")), False)
-CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", '''<b><a href=https://t.me/Latest_Movies_And_Series>{file_name}</a> 
+CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", '''<b><a href=https://t.me/Popular_Movie0>{file_name}</a> 
 ━━━━━━━━━━━━━━━━━━━ 
 💥Jᴏɪɴ Aɴᴅ Sᴜᴘᴘᴏʀᴛ💥
-@Latest_Movies_And_Series</b>''')
+@Popular_Movie0</b>''')
 BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION", CUSTOM_FILE_CAPTION)
 IMDB_TEMPLATE = environ.get("IMDB_TEMPLATE", '''<b>🎞 Tɪᴛʟᴇ : {title} {year} [{kind}]</b>
 
@@ -59,7 +59,7 @@ IMDB_TEMPLATE = environ.get("IMDB_TEMPLATE", '''<b>🎞 Tɪᴛʟᴇ : {title} {y
 
 <b>📖 Sᴛᴏʀʏʟɪɴᴇ : <i>{plot}</i></b>
 
-<b> 🪂 Jᴏɪɴ & Sᴜᴘᴘᴏʀᴛ Us : @Latest_Movies_And_Series 📡</b>''')
+<b> 🪂 Jᴏɪɴ & Sᴜᴘᴘᴏʀᴛ Us : @Popular_Movie0 📡</b>''')
 LONG_IMDB_DESCRIPTION = is_enabled(environ.get("LONG_IMDB_DESCRIPTION", "False"), False)
 SPELL_CHECK_REPLY = is_enabled(environ.get("SPELL_CHECK_REPLY", "True"), True)
 MAX_LIST_ELM = environ.get("MAX_LIST_ELM", None)
